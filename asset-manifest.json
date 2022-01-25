@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coviddata-ro/static/css/main.5cd0e049.css",
+    "main.js": "/coviddata-ro/static/js/main.0a25764b.js",
+    "static/media/virus.png": "/coviddata-ro/static/media/virus.7fef2eedbc98838c4875.png",
+    "static/media/tracing.png": "/coviddata-ro/static/media/tracing.30447a80712dd25637eb.png",
+    "static/media/safety.png": "/coviddata-ro/static/media/safety.d54c4864d7b1f68768f6.png",
+    "static/media/vaccine.png": "/coviddata-ro/static/media/vaccine.dade28ca4cce1a152bab.png",
+    "static/media/cough.png": "/coviddata-ro/static/media/cough.2904336c4777415e4aa5.png",
+    "static/media/fever.png": "/coviddata-ro/static/media/fever.02d69208c08346cb4066.png",
+    "static/media/headache.png": "/coviddata-ro/static/media/headache.3ed6fc22b0c3da4522c7.png",
+    "index.html": "/coviddata-ro/index.html",
+    "main.5cd0e049.css.map": "/coviddata-ro/static/css/main.5cd0e049.css.map",
+    "main.0a25764b.js.map": "/coviddata-ro/static/js/main.0a25764b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd0e049.css",
+    "static/js/main.0a25764b.js"
+  ]
+}
