@@ -25,7 +25,7 @@ I am _Selim_
 My website - [www.selimm.me](https://selimmh.me)  
 Twitter - [@selimmh0](https://twitter.com/selimmh0)  
 LinkedIn - [@selimmh](https://www.linkedin.com/in/selimmh/)  
-E-mail - [[@selim.mht@gmail.com](https://mail.google.com/)
+E-mail - [@selim.mht@gmail.com](https://mail.google.com/)
 
 #
 
