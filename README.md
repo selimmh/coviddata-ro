@@ -1,12 +1,12 @@
 <!-- Title -->
 
-# Romania's Covid Data with React
+# COVIDDATA.RO
 
 <!-- About -->
 
 ### About The Project
 
-Covid Data using web tools. Check it out [Here](https://selimmh.github.io/coviddata-ro/)
+Website for Romania's daily Covid status. Check it out [Here](https://selimmh.github.io/coviddata-ro/)
 
 #
 
